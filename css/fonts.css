@@ -1,0 +1,30 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 2887209, 2014-09-22T05:35:37-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: ProximaNova-Regular by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/regular/
+ * Copyright: Copyright (c) Mark Simonson, 2005. All rights reserved.
+ * Licensed pageviews: 1,000,000
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2887209
+ * 
+ * © 2014 MyFonts Inc
+*/
+
+
+@font-face {font-family: 'locator-web';src: url('../media/1041/locatorweblight.eot');src: url('../media/1041/locatorweblightd41d.eot?#iefix') format('embedded-opentype'),url('../media/1028/locatorweblight.woff') format('woff');}
+  
+@font-face {font-family: 'proxima-nova';src: url('../media/1037/2c0e29_0_0.eot');src: url('../media/1037/2c0e29_0_0d41d.eot?#iefix') format('embedded-opentype'),url('../media/1039/2c0e29_0_0.ttf') format('truetype'),url('../media/1044/2c0e29_0_0.svg#wf') format('svg');}
+ 
+
+
+
+/* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */
